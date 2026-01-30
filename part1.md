@@ -16,3 +16,9 @@ Line 1
 이렇게 `git add`를 통해 커밋할 파일을 고르는 과정을 `staging`이라 하며, 해당 파일들이 놓이는 공간을 `staging area`라고 부름.  
   
 `git commit`을 통해 staging 되었던 파일들은 `repository`로 옮겨짐.
+
+여러 파일 스테이징
+```git add <file1> <file2> ...```
+
+모든 파일 스테이징 (wildcard)
+```git add .```
