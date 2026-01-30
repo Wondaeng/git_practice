@@ -26,3 +26,6 @@ Line 1
 # Git 상태 확인
 ```git status```
 어떤 파일이 수정(modified) 되었는지, 스테이징 되었는지 확인 가능
+
+# Git 로그 확인
+```git log --all --oneline```
