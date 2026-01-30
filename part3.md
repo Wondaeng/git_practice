@@ -32,3 +32,20 @@ Conflict 해결법은:
 1. 원하는 코드만 남기고
 2. git add
 3. git commit
+
+```
+* e9e71f6 (HEAD -> main) how to resolve conflict
+*   d529faf resolve conflict
+|\
+| * 8db33ac (coupon) add coupon2
+| * 7c319c7 add coupon1
+| * c92d943 add coupon feature
+* | cad0574 add merge description
+* | a941715 add feature1
+* | 580f943 add feature1
+* | 9349b4f first commit
+|/
+* 227107f finalize
+* def1ea8 add file
+* e7c775d add description
+```
