@@ -5,5 +5,5 @@ git이 파일 기록해두는 장소: repository
 
 GitHub: 온라인 repository = 원격저장소
 
-
+`git remote add 변수명 주소`
 
