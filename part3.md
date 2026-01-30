@@ -33,6 +33,8 @@ Conflict 해결법은:
 2. git add
 3. git commit
 
+`git log --oneline --all --graph`
+
 ```
 * e9e71f6 (HEAD -> main) how to resolve conflict
 *   d529faf resolve conflict
