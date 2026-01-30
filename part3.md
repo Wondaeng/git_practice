@@ -13,3 +13,5 @@ e.g., 쇼핑몰 만드는 중
 `git branch <이름>` --> 현재 HEAD가 가르키고 있는 커밋의 사본을 만듦 (정확히는 HEAD가 가르키는 커밋을 가르키는 포인터를 하나 더 만드는 것)
 
 `git switch <이름>` --> HEAD가 <이름> 포인터를 가르키게 함
+
+- main branch only feature 1
