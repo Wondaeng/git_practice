@@ -28,3 +28,7 @@ coupon 기능이 잘 동작해서, main branch에 이제 합치고 싶음
 - coupon1
 - coupon2
 
+Conflict 해결법은:
+1. 원하는 코드만 남기고
+2. git add
+3. git commit
