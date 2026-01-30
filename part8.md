@@ -7,3 +7,6 @@ or 로컬에서 만들고 push해도 똑같음
 원격저장소 브랜치 merge 하고 싶으면?:
 - github에서 pull request 하거나 
 - 로컬에서 합치고 push 하기
+
+
+의도적인 1
