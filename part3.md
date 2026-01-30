@@ -16,3 +16,10 @@ e.g., 쇼핑몰 만드는 중
 
 - main branch only feature 1
 - main branch only feature 2
+
+coupon 기능이 잘 동작해서, main branch에 이제 합치고 싶음
+1. 병합의 기준이 되는 branch로 이동 (main)
+2. `git merge <합칠 branch 명>
+여기서 두가지 경우 발생:
+- 각 브랜치에서 각각 다른 파일만 수정했을 때: merge 바로 끝
+- 같은 파일의 같은 줄을 수정했을때: 충돌(conflict) 발생: 직접 해결해줘야함
