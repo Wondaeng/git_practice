@@ -22,3 +22,7 @@ Line 1
 
 모든 파일 스테이징 (wildcard)
 ```git add .```
+
+# Git 상태 확인
+```git status```
+어떤 파일이 수정(modified) 되었는지, 스테이징 되었는지 확인 가능
