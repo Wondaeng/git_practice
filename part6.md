@@ -7,3 +7,6 @@ GitHub: 온라인 repository = 원격저장소
 
 `git remote add 변수명 주소`
 
+`-u`: 앞으로 로컬의 브랜치는 원격 저장소 주소의 브랜치를 upstream으로 삼아라
+
+`main --> origin/main` 추적 관계를 설정
